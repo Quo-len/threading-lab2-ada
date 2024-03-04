@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_file>
+    <file_marker column=" 48" line=" 15" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 14" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 101" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 46" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 47" line=" 96" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 14" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 101" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 43" line=" 14" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 101" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 46" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 101" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 46" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 101" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 46" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 101" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 46" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 101" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 110" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 101" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 46" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 21" line=" 101" >
+      <vfs_project>C:\GNAT\2021\bin\lab2\lab2ada.gpr</vfs_project>
+      <vfs_file>C:\GNAT\2021\bin\lab2\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
